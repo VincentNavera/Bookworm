@@ -15,6 +15,7 @@
 		BD3C658126AF04900075BBEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD3C657F26AF04900075BBEC /* LaunchScreen.storyboard */; };
 		BD3C658926AF091D0075BBEC /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3C658826AF091D0075BBEC /* AddBookView.swift */; };
 		BD3C658C26AF0AD00075BBEC /* Bookworm.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD3C658A26AF0AD00075BBEC /* Bookworm.xcdatamodeld */; };
+		BD4E028D26AF0FAE00B71A53 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4E028C26AF0FAE00B71A53 /* RatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BD3C658226AF04900075BBEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD3C658826AF091D0075BBEC /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
 		BD3C658B26AF0AD00075BBEC /* Bookworm.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Bookworm.xcdatamodel; sourceTree = "<group>"; };
+		BD4E028C26AF0FAE00B71A53 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BD3C657126AF048F0075BBEC /* AppDelegate.swift */,
 				BD3C657326AF048F0075BBEC /* SceneDelegate.swift */,
 				BD3C657526AF048F0075BBEC /* ContentView.swift */,
+				BD4E028C26AF0FAE00B71A53 /* RatingView.swift */,
 				BD3C658826AF091D0075BBEC /* AddBookView.swift */,
 				BD3C657A26AF04900075BBEC /* Assets.xcassets */,
 				BD3C657F26AF04900075BBEC /* LaunchScreen.storyboard */,
@@ -154,6 +157,7 @@
 				BD3C657226AF048F0075BBEC /* AppDelegate.swift in Sources */,
 				BD3C657426AF048F0075BBEC /* SceneDelegate.swift in Sources */,
 				BD3C657626AF048F0075BBEC /* ContentView.swift in Sources */,
+				BD4E028D26AF0FAE00B71A53 /* RatingView.swift in Sources */,
 				BD3C658926AF091D0075BBEC /* AddBookView.swift in Sources */,
 				BD3C658C26AF0AD00075BBEC /* Bookworm.xcdatamodeld in Sources */,
 			);
